@@ -1,4 +1,4 @@
 # learner-space
 
 Learning GitHub.
-<br> Author - Mr Shohanur
+<br> Author - Mr Shohanur (Mr Learner)
